@@ -1,0 +1,30 @@
+header{
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	height: 10vh;
+    text-align: center;
+    padding: 10px;
+}
+body{
+    background: linear-gradient(-45deg, #d4491e, #57ec64, #368fe2, #996be2);
+	background-size: 400% 400%;
+	height: 100vh
+}
+.container {
+    display: flex;
+    margin: 10px;
+    flex-wrap: nowrap;   
+}
+
+.center{
+    padding: 8%;
+    margin-left: 30%;
+    margin-right: 30%;
+    align-content: center;
+    
+}
+
+#f_btn{
+    align-content: center;
+    align-items: center;
+}
